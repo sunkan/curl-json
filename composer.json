@@ -10,5 +10,6 @@
 	    "psr-0": {
 	      "Curl": "src/"
 	    }
- 	}
+ 	},
+    "minimum-stability": "dev"
 }
