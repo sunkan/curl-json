@@ -1,0 +1,13 @@
+{
+    "name": "curl/json",
+    "description": "A JSON posting interface to cURL",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+	    "psr-0": {
+	      "Curl": "src/"
+	    }
+ 	}
+}
