@@ -1,5 +1,6 @@
 <?php
-include 'src/Curl/Json.php';
+require 'src/Curl/Json.php';
+require 'vendor/autoload.php';
 
 class testCurlJson extends PHPUnit_Framework_TestCase {
 	private $curl;
